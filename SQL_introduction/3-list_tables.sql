@@ -1,4 +1,4 @@
 -- Show all TABLES
 
-USE mysql
+USE mysql;
 SHOW TABLES;
