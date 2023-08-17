@@ -1,3 +1,3 @@
 -- full description
 
-SHOW CREATE TABLE `hbtn_test_db_5`.first_table;
+SHOW CREATE TABLE first_table;
