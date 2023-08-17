@@ -1,4 +1,7 @@
 -- Show all TABLES
 
-USE mysql;
+SET @database_name = 'mysql';
+
+USE @database_name;
+
 SHOW TABLES;
