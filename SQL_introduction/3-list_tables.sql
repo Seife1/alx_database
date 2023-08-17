@@ -1,8 +1,8 @@
 -- Show all TABLES
 
 
-USE mysql;
+USE hbtn_test_db_0;
 
 SELECT TABLE_NAME
 FROM INFORMATION_SCHEMA.TABLES
-WHERE TABLE_SCHEMA='mysql';
+WHERE TABLE_SCHEMA='hbtn_test_db_0';
