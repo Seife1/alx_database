@@ -2,5 +2,5 @@
 
 USE hbtn_0d_usa;
 SELECT c.id, c.name, s.name
-FROM cities as c NATURAL JOIN states as s
+FROM cities AS c NATURAL JOIN states AS s
 ORDER BY c.id;
